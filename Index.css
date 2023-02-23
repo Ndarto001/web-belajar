@@ -1,0 +1,53 @@
+body{
+  
+}
+
+.container-navbar{
+    background: rgb(1,36,0);
+background: linear-gradient(90deg, rgba(1,36,0,1) 0%, rgba(86,121,9,1) 41%, rgba(219,206,3,1) 100%);
+    display: flex;
+    justify-content: flex-end;
+    padding: 10px;
+    font-size: 14sp;
+}
+
+.table{
+    justify-content: flex-end;
+    display: flex;
+}
+
+.logo{
+    margin-right: auto;
+    margin-left: 5%;
+    width: 80px;
+    height: 50px;
+    justify-content: flex-start;
+}
+.Home{
+    background-color:greenyellow;
+    font-size: 20px;
+    
+}
+.OurProfile{
+    background-color: greenyellow;
+    font-size: 20px;
+    
+}
+.Portofolio{
+    background-color: greenyellow;
+    font-size: 20px;
+   
+}
+.MessageUs{
+    background-color: greenyellow;
+    font-size: 20px;
+}
+
+.form-section{
+    display: flex;
+}
+.form-output{
+    justify-items: flex-end;
+    width: 50%;
+    margin-left: auto;
+}
